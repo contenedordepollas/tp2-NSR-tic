@@ -1,0 +1,13 @@
+var name="omawa" 
+var age="42"
+var gender= "male"
+var isMember="yes"
+var thirsty="yes"
+var drinkName="limit cola"
+var person=prompt("¿hola cuantos años tenes?",name) 
+var person=prompt("¿como te llamas?",name)
+var person=prompt("¿sos hombre o mujer?",name)
+var person=prompt("¿sos hombre o mujer?",name)
+var person=prompt("¿tenes sed?",name)
+var person=prompt("te puedo ofrecer cualquier cosa menos coors light",name)
+var person=prompt("ah queres coors light ehh, salì de acá rata",name)
